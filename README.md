@@ -35,4 +35,8 @@ Open <http://localhost:7000>. Both apps can run at the same time. Use Ctrl+C in 
 
 ## Credits
 
+https://www.closingthegap.gov.au/national-agreement/targets
+
+https://www.pc.gov.au/closing-the-gap-data/dashboard/
+
 The original Javalin project is preserved at commit `285b983`. The RMIT University Studio Project starter code was written by Dr. Timothy Wiley and Prof. Santha Sumanasekara. Copyright RMIT University (c) 2021.
